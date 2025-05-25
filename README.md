@@ -1,4 +1,4 @@
-👋 Hey there, I’m Taru Singh—currently navigating the labyrinth of VIT Vellore (send snacks and debugging tips).
+👋 Hey there, I’m Taru Singh—currently navigating the labyrinth of college (send snacks and debugging tips).
 
 💻 By day, I wrangle code in Python, C++, and Java; by night, I wage war against CSS bugs and JavaScript quirks. I once convinced React to cooperate with me, so you could say I’ve seen things.
 
