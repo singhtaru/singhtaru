@@ -1,9 +1,9 @@
-👋 Hey there, I’m Taru Singh—currently navigating the labyrinth of college (send snacks and debugging tips).
+👋 Hi, I’m Taru Singh — currently pursuing my undergraduate studies and exploring the ever-evolving world of technology.
 
-💻 By day, I wrangle code in Python, C++, and Java; by night, I wage war against CSS bugs and JavaScript quirks. I once convinced React to cooperate with me, so you could say I’ve seen things.
+💻 I work primarily with Python, C++, and Java, and have hands-on experience in frontend development using HTML, CSS, JavaScript, and React. From debugging logic errors to taming unruly UI bugs, I enjoy building solutions and learning through every challenge.
 
-🧴 I created a skincare tracker because, let’s face it, my code might break, but my skin won’t. Check out my digital skincare diary on GitHub—because self-care includes exception handling.
+🧴 Passionate about both tech and wellness, I built a digital skincare tracker to combine self-care with structured logging—because even when the code breaks, consistency in self-care shouldn’t.
 
-🎨 When I’m not sketching the chaos of my mind, I’m binge-watching K-dramas. Fun fact: If every K-drama was a passport stamp, my soul would have a permanent residency in Seoul, plus a time-travel visa and at least three dramatic reincarnations.
+🎨 Outside of coding, I enjoy sketching and diving into K-dramas. If my streaming history were a passport, I’d have honorary citizenship in Seoul, complete with a time-travel visa and a few dramatic plot twists.
 
-🔗 Stalk me on [LinkedIn](https://www.linkedin.com/in/taru-singh-5495a6288/) (networking is just social stalking with consent).
+🔗 Feel free to connect with me on LinkedIn — I’m always open to networking, collaboration, and learning opportunities.
